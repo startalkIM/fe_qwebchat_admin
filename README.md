@@ -1,7 +1,7 @@
 ## Startalk ChatAdmin
 ### 简介
 - Startalk ChatAdmin是客服后台管理系统
-- ChatAdmin依赖[后端服务](https://github.com/qunarcorp/qchat_admin_open),否则无法正常使用该系统
+- ChatAdmin依赖[后端服务](https://github.com/startalkIM/qchat_admin_open),否则无法正常使用该系统
 - 涉及技术：fekit avalon vm等
 - 主要功能：客服管理、智能客服选项、服务设置等
 - 如果Startalk ChatAdmin对您有所帮助或启发的话，还望给个star鼓励，我们团队会尽全力提供持续优化和支持，力求做出最优秀的企业级IM套件
@@ -11,7 +11,7 @@
 #### 本地环境要求
   - node@ >= 8.6.0   npm、git等工具
 ### 项目启动
-  - git clone https://github.com/qunarcorp/fe_qwebchat_admin.git
+  - git clone https://github.com/startalkIM/fe_qwebchat_admin.git
   - npm install fekit -g 全局安装fekit
   - npm install
   - npm start（fekit server）
